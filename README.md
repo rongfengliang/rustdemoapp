@@ -3,7 +3,7 @@ rustdemoapp
 
 ## run
 ```bash
-git clone github.com/rongfengliang/rustdemoapp.git
+git clone https://github.com/rongfengliang/rustdemoapp.git
 cargo run 
 ```
 ## build
